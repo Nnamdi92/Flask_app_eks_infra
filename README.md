@@ -10,8 +10,6 @@ GitHub Repository: [https://github.com/Nnamdi92/Flask-Eks-Infra.git](https://git
 
 ![Infrastructure Diagram]!![alt text](image-1.png)
 
-🔗 View diagram in Draw.io: [Click here](https://app.diagrams.net/)
-
 This diagram illustrates the EKS-based deployment, including:
 - VPC with public subnets
 - Internet Gateway and route tables
