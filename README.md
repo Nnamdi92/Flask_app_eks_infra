@@ -8,7 +8,7 @@ GitHub Repository: [https://github.com/Nnamdi92/Flask-Eks-Infra.git](https://git
 
 ## 📁 Architecture Diagram
 
-![Infrastructure Diagram]![alt text](image.png)
+![Infrastructure Diagram]!![alt text](image-1.png)
 
 🔗 View diagram in Draw.io: [Click here](https://app.diagrams.net/)
 
